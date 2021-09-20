@@ -1,4 +1,7 @@
 # splunk_indexer_config
+
+Splunk cluster indexer configuration - see https://github.com/yaleman/splunk_cluster_core for more information.
+
 The configuration for storage in master-apps/_cluster on the cluster master.
 
 Splunk Documentation here: https://docs.splunk.com/Documentation/Splunk/8.0.2/Indexer/Managecommonconfigurations
